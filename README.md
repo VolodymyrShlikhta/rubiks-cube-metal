@@ -1,1 +1,1 @@
-rubiks-cube-metal
+Rubik's cube solver with visualization via metal(maybe).
